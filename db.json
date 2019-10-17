@@ -21,6 +21,10 @@
     {
       "DepartmentID": 2,
       "DepartmentName": "Department 2"
+    },
+    {
+      "DepartmentID": 3,
+      "DepartmentName": "Department 3"
     }
   ],
   "profile": {
