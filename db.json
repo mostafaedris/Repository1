@@ -1,0 +1,29 @@
+{
+  "Employees": [
+    {
+      "EmpID": 1,
+      "EmpName": "Post 1"
+    },
+    {
+      "EmpID": 2,
+      "EmpName": "Post 2"
+    },
+    {
+      "EmpID": 3,
+      "EmpName": "Post 3"
+    }
+  ],
+  "Departments": [
+    {
+      "DepartmentID": 1,
+      "DepartmentName": "some comment"
+    },
+    {
+      "DepartmentID": 2,
+      "DepartmentName": "some comment"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
