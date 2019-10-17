@@ -2,25 +2,25 @@
   "Employees": [
     {
       "EmpID": 1,
-      "EmpName": "Post 1"
+      "EmpName": "Employee 1"
     },
     {
       "EmpID": 2,
-      "EmpName": "Post 2"
+      "EmpName": "Employee 2"
     },
     {
       "EmpID": 3,
-      "EmpName": "Post 3"
+      "EmpName": "Employee 3"
     }
   ],
   "Departments": [
     {
       "DepartmentID": 1,
-      "DepartmentName": "some comment"
+      "DepartmentName": "Department 1"
     },
     {
       "DepartmentID": 2,
-      "DepartmentName": "some comment"
+      "DepartmentName": "Department 2"
     }
   ],
   "profile": {
